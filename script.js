@@ -1,27 +1,17 @@
-# HW1
-Homework 1 for CSC 510
-
-###Please find below the link for Script.js file
-https://github.ncsu.edu/sakunker/HW1/blob/master/script.js
-
-###Link for github pages webpage 
-https://pages.github.ncsu.edu/sakunker/SampleProject/ 
-
-## Script.js Code for REST API
-```
 var request = require('request');
 var fs = require("fs");
 var Promise = require('bluebird');
 var parse = require('parse-link-header');
 
 
+////// FILL IN THE BLANKS
 var token = "token " +process.env.TOKEN ;
 var userId = process.env.Name;
 var repo="RestAPI"
 var urlRoot = "https://github.ncsu.edu/api/v3"; 
 
 
-/* Please comment rest of the mehtods while executing any single method at a time to run the code */
+/* Please comment all the mehtods except one which is plan for execution while running code */
 
 getYourRepos(userId);
 listBranches(userId,repo);
@@ -158,5 +148,3 @@ function EditRepo(owner,repo)
 
 }
 
-
-```
