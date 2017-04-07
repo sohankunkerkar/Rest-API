@@ -1,11 +1,8 @@
 # HW1
 Homework 1 for CSC 510
 
-###Please find below the link for Script.js file
-https://github.ncsu.edu/sakunker/HW1/blob/master/script.js
-
-###Link for github pages webpage 
-https://pages.github.ncsu.edu/sakunker/SampleProject/ 
+<b>Please find below the link for Script.js file</b>
+https://github.com/sohankunkerkar/SE_HW1/script.js
 
 ## Script.js Code for REST API
 ```
