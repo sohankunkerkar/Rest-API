@@ -1,7 +1,7 @@
 # HW1
 Homework 1 for CSC 510
 
-<b>Please find below the link for Script.js file</b>
+<b>Please find below the link for Script.js file</b><br>
 https://github.com/sohankunkerkar/SE_HW1/script.js
 
 ## Script.js Code for REST API
